@@ -1,6 +1,6 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hi, I'm Leo Torrico 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <iframe src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW">via GIPHY</a></p>
 </p>
 
 ---
