@@ -46,10 +46,10 @@
 
 ---
 
-### 🚀 Proyectos Destacados  
-- 🔹 **[Proyecto 1](https://github.com/tu-username/proyecto1)** - Breve descripción.
-- 🔹 **[Proyecto 2](https://github.com/tu-username/proyecto2)** - Breve descripción.
-- 🔹 **[Proyecto 3](https://github.com/tu-username/proyecto3)** - Breve descripción.
+### 🚀 Featured Projects  
+- 🔹 **[ComicNexus](https://github.com/Developers-ComixNexus/ComicNexus)** - A comic website where you could upload and view comics, as well as create playlists.
+- 🔹 **[M-tis Frontend](https://github.com/LeoTorrico/M-tis-frontend)** - A platform similar to Classroom for teachers to manage their subjects, upload assignments, grade students, and track attendance.
+- 🔹 **[Mental Landing Page](https://github.com/LeoTorrico/Mental-landing-page)** - A landing page for a psychiatrist with information about the doctor, services, and contact details.
 
 ---
 
@@ -68,4 +68,4 @@
 
 ---
 
-⭐️ ¡No olvides dar una estrella a mis proyectos si te gustan! 🚀
+⭐️ Don't forget to star my projects if you like them! 🚀
