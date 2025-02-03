@@ -1,3 +1,4 @@
+<h1 align="center">Hi there! I'm Leo Torrico 👋</h1>
 <div align="center">
   <table>
     <tr>
@@ -5,7 +6,6 @@
         <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="200px">
       </td>
       <td>
-        <h3>Hi there! I'm Leo Torrico 👋</h3>
         <p>
           Systems engineering student with knowledge in frontend and backend development.
           I love working with modern technologies like <b>React, Typescript, Java</b>.
@@ -22,33 +22,25 @@
 
 ---
 
-### 🚀 Sobre mí
-- 💻 Desarrollador apasionado por la tecnología y la innovación.
-- 🎯 Especializado en **React, Node.js, MySQL** y más.
-- 📚 Siempre aprendiendo cosas nuevas.
-- 🌎 Puedes visitar mi portafolio en [tuweb.com](https://tuweb.com).
+### 🚀 About Me
+-💻 Developer passionate about technology, computers, and innovations
+-🎯 Focused on frontend with: React, TypeScript, and Tailwind CSS
+-📚 Always striving to become the best version of myself
 
 ---
 
-### 🛠️ Tecnologías y Herramientas  
+### 🛠️ Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,html,css,mysql,postgres,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,html,css,mysql,postgres,docker,git,github,vscode,java,springboot,python" />
 </p>
 
----
-
-### 📊 Estadísticas de GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-username&theme=radical" width="48%" />
-</p>
 
 ---
 
 ### 🏆 Trofeos de GitHub  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-username&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?LeoTorrico&theme=onedark&no-bg=true&no-frame=true" />
 </p>
 
 ---
