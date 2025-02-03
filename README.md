@@ -53,7 +53,7 @@
 
 ---
 
-### 🌐 Conéctate conmigo  
+### 🌐 Connect with me 
 <p align="center">
   <a href="[https://www.linkedin.com/in/tu-username/](https://www.linkedin.com/in/leonardo-torrico-492b771b0/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
