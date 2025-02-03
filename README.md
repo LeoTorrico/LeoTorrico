@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
 
-<!--
-**LeoTorrico/LeoTorrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 💻 Desarrollador apasionado por la tecnología y la innovación.
+- 🎯 Especializado en **React, Node.js, MySQL** y más.
+- 📚 Siempre aprendiendo cosas nuevas.
+- 🌎 Puedes visitar mi portafolio en [tuweb.com](https://tuweb.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,html,css,mysql,postgres,docker,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-username&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🏆 Trofeos de GitHub  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tu-username&theme=onedark&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados  
+- 🔹 **[Proyecto 1](https://github.com/tu-username/proyecto1)** - Breve descripción.
+- 🔹 **[Proyecto 2](https://github.com/tu-username/proyecto2)** - Breve descripción.
+- 🔹 **[Proyecto 3](https://github.com/tu-username/proyecto3)** - Breve descripción.
+
+---
+
+### 🌐 Conéctate conmigo  
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tu-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ ¡No olvides dar una estrella a mis proyectos si te gustan! 🚀
