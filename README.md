@@ -1,9 +1,24 @@
-<h1 align="center">Hi, I'm Leo Torrico 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="280">
-  Systems engineering student with knowledge in frontend and backend development.
-  I love working with modern technologies like <b>React, Node.js, and MySQL</b>.
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="200px">
+      </td>
+      <td>
+        <h3>Hi there! I'm Leo Torrico 👋</h3>
+        <p>
+          Systems engineering student with knowledge in frontend and backend development.
+          I love working with modern technologies like <b>React, Typescript, Java</b>.
+        </p>
+        <p>
+          🚀 Always learning and improving my skills.<br>
+          💡 Interested in Open Source and innovative projects.<br>
+          📫 Contact me: leo.torrico@icloud.com
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
