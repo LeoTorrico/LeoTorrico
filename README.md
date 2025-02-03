@@ -23,9 +23,9 @@
 ---
 
 ### 🚀 About Me
--💻 Developer passionate about technology, computers, and innovations
--🎯 Focused on frontend with: React, TypeScript, and Tailwind CSS
--📚 Always striving to become the best version of myself
+💻 Developer passionate about technology, computers, and innovations
+🎯 Focused on frontend with: React, TypeScript, and Tailwind CSS
+📚 Always striving to become the best version of myself
 
 ---
 
@@ -38,10 +38,11 @@
 
 ---
 
-### 🏆 Trofeos de GitHub  
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?LeoTorrico&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeoTorrico&theme=onedark&no-bg=true&no-frame=true" />
 </p>
+
 
 ---
 
