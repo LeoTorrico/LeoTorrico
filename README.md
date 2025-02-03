@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Leo Torrico 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="280">
-
+  Systems engineering student with knowledge in frontend and backend development.
+  I love working with modern technologies like <b>React, Node.js, and MySQL</b>.
 </p>
 
 ---
